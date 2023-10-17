@@ -66,5 +66,5 @@ class GetAmountObject:
 #     [0, 1, 1, 0, 1],
 #     [0, 0, 1, 1, 0]
 
-
-GetAmountObject()
+if __name__ == "__main__":
+    GetAmountObject()
